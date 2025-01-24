@@ -40,12 +40,12 @@ We provide an `environment.yml` file containing all the required dependencies fo
 Once the environment is activated, you are ready to work in it and start your calculations.
 
 
-1. **Input folder**:
+**Input folder**:
    - Training Data: CSV files containing training compounds and their similarity scores (pairsim column). The files are located in the Quartiles folder.
    - Morgan Fingerprints: CSV files containing the corresponding Morgan fingerprints for the training compounds, located in the Morgan folder.
    - Molecular properties: CSV files containing the corresponding Morgan fingerprints for the training compounds, located in the Properties folder.
   - External Compounds: A CSV file (molecules-to-screen.csv) containing the external compounds (ligands) to be screened. This file must contain a column called smiles.
-5. **Otput **: The output of the script includes:
+**Otput **: The output of the script includes:
 
   **Results DataFrame**: A DataFrame containing the following columns for each external compound:
    - `smiles`: The SMILES representation of the compound.
