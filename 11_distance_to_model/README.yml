@@ -1,6 +1,0 @@
-README
-
-conda env create -f enviroment.yml
-conda activate Distance
-
-python python distance_to_model2.py 
