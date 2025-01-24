@@ -1,0 +1,5 @@
+This code implements a similarity check between input ligands and the training dataset of a machine learning (ML) model by evaluating the Jaccard distance between the compound to be screened and the dataset compounds. To assess prediction confidence, the results are categorized into four quartiles (Q1–Q4) based on the average Jaccard distance. This categorization is computed using a Morgan fingerprint with a radius of 2 (2048 bits). Compounds that exhibit a mean Jaccard distance outside the range of Q1–Q4 are flagged in a special “OUT” category, indicating low confidence due to significant dissimilarity with the training data.
+
+References:
+
+Sánchez-Cruz, N.; Medina-Franco, J. L. Epigenetic TargetProfiler: A Web Server to Predict Epigenetic Targets of SmallMolecules. J. Chem. Inf. Model. 2021, 61 (4), 1550−1554.
