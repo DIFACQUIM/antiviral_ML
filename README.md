@@ -34,15 +34,11 @@ Viral infections, especially those affecting the respiratory system, represent a
 
 ## Dataset
 
-The dataset consists of:
 
 
 
-## References
-
-- **SARS-CoV-2 and Global Health**: The study highlights the increased need for antiviral compounds, especially during pandemics like COVID-19.
-- **Machine Learning for Drug Discovery**: Machine learning techniques have become a valuable tool in drug discovery, enabling the design of focused libraries for viral infections.
-- **Targeted Respiratory Therapies**: The research focuses on pathways and targets relevant to respiratory viruses, including coronaviruses and influenza.
+## Reference:
+Valle-Núñez G., Cedillo-González R., Avellaneda-Tamayo JF., Saldívar-González FI., Prado-Romero DL., Medina-Franco JL. Machine learning-driven antiviral libraries targeting respiratory viruses. Digital Discovery. 2025 (sent)
 
 ## License
 
