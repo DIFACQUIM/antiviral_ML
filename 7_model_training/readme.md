@@ -1,4 +1,4 @@
-# IAV Polymerase (PA) Model Training
+# Model Training
 
 ## Project Overview
 This project focuses on developing supervised binary classification models using PyCaret (v3.3.2) to predict the activity of compounds against the Influenza A Virus (IAV) Polymerase (PA) target. The models are trained on ChEMBL data with binary activity labels (active/inactive) using molecular representations such as Morgan Chiral fingerprints and physicochemical descriptors.
