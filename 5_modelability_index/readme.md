@@ -1,4 +1,4 @@
-# Modelability Index (MODI) Analysis for ChEMBL Data Sets
+# Modelability Index (MODI) 
 
 This notebook calculates the Modelability Index (MODI), which measures the proportion of compounds in a data set whose nearest neighbor belongs to the same class within a defined feature space. The analysis is conducted for ChEMBL data sets using two types of molecular fingerprints:
 
