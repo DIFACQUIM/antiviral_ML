@@ -1,4 +1,4 @@
-# Scaffold Analysis in Drug Discovery
+# Scaffold Analysis 
 
 ## Overview
 This repository contains a Google Colab notebook for scaffold analysis in cheminformatics, focusing on antiviral compounds. Scaffold-based analysis helps identify core molecular frameworks, which are essential for understanding structure-activity relationships (SAR) and optimizing drug discovery pipelines.
