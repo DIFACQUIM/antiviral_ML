@@ -1,18 +1,32 @@
 # ADMET Properties Calculation (ADMET-AI)
 
-This notebook calculates Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) predictions
+This notebook calculates Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET) predictions. This was accomplished using ADMET-AI, with the open-source Python library for local predictions.
 
 ## Methodology
 
 ADMET properties were computed using Python 3 and the following libraries:
 - **pandas:** For data manipulation and organization.
-- **ADMET-AI:**  
+- **ADMET-AI:** For the calculation of ADMET descriptors.
+
+Predictions were calculated with a Jupyter notebook as described by the authors of ADMET-AI, with a conda environment:
+
+```bash
+conda create -y -n admet_ai python=3.10
+conda activate admet_ai
+```
+
+Install ADMET-AI via pip.
+
+```bash
+pip install admet-ai
+conda install jupyter 
+```
 
 ## Authors
 - **Diana L. Prado-Romero**: Adapted this section.
-- **Pedro A. Laurel-García**: Made the first draft.
+- **Pedro A. Laurel-García**: First example for the adaptation.
 
-The methodology and implementation were inspired by the repository [admet_ai](https://github.com/swansonk14/admet_ai).
+The methodology and implementation were inspired by the repository [ADMET-AI by swansonk14](https://github.com/swansonk14/admet_ai).
 
 ## Reference
 
