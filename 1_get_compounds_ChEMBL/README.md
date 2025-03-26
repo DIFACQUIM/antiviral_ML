@@ -21,8 +21,6 @@ pip install chembl_webresource_client pandas requests tqdm
 ## **2. Authors & Contributions**  
 
 - **Brayan Raziel Cedillo-González**
-  
-The methodology and implementation were inspired by the repository [ADMET-AI by swansonk14](https://github.com/swansonk14/admet_ai).  
 
 ---
 This project provides a reproducible workflow for retrieving compound bioactivity data from ChEMBL, supporting computational drug discovery efforts.
